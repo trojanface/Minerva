@@ -1,6 +1,6 @@
 # Minerva
 ### By trojanface
-v3.4
+v3.4.1
 ## Description
 Minerva is a simple spaced repetition app designed to help you remember information more effectively. It is based on a modified and adaptive version of the SM2 algorithm developed by Piotr Wozniak. Suggested uses are for students/professionals learning a body of information.
 
